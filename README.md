@@ -16,5 +16,5 @@ Abra o prompt de comando ou shell na raiz do projeto e faça a seguinte instruç
 <br/>
 
 Exemplo: <br/>
- <b>java -jar target/cpfReader-0.0.1.jar --csv.path="C:\projetos\ciee\ciee-pse-perf-tests\entrega\cadastro-candidatos.csv"</b>
+ <b>java -jar target/cpfReader-0.0.1.jar --csv.path="C:\projetos\arquivos\cadastro-candidatos.csv"</b>
 
