@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "load.cvs.defaultPath",
+      "type": "java.lang.String",
+      "description": "Description for load.cvs.defaultPath."
+  }
+] }

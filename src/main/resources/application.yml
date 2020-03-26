@@ -1,0 +1,10 @@
+spring:
+  application:
+      name: cpfReader
+
+
+csv:
+  path: C:/teste/cadastro-candidatos.csv
+
+server:
+  port : 8085
